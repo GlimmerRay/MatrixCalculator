@@ -1,0 +1,55 @@
+body {
+    color: blue;
+    text-align: center;
+}
+
+.App {
+    margin-top: 50px;
+}
+
+/* .errorMessage {
+    display: block;
+    height: 20px;
+    width: 20px;
+} */
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+.dim-input {
+    border: 1px solid black;
+    border-radius: 2px;
+    margin: 2px;
+    margin-bottom: 20px;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+}
+
+.cell-input {
+    border: 1px solid black;
+    border-radius: 2px;
+    margin: 2px;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+}
+
+.matrix {
+    display: inline-block;
+    margin: 20px;
+    vertical-align: top;
+}
+
+.x {
+    color:rgb(10, 187, 25);
+}
