@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/MatrixCalculator/static/css/main.44052a45.chunk.css",
+    "main.js": "/MatrixCalculator/static/js/main.ba129fd4.chunk.js",
+    "main.js.map": "/MatrixCalculator/static/js/main.ba129fd4.chunk.js.map",
+    "runtime-main.js": "/MatrixCalculator/static/js/runtime-main.6c2ac620.js",
+    "runtime-main.js.map": "/MatrixCalculator/static/js/runtime-main.6c2ac620.js.map",
+    "static/js/2.e6e7ab3e.chunk.js": "/MatrixCalculator/static/js/2.e6e7ab3e.chunk.js",
+    "static/js/2.e6e7ab3e.chunk.js.map": "/MatrixCalculator/static/js/2.e6e7ab3e.chunk.js.map",
+    "index.html": "/MatrixCalculator/index.html",
+    "static/css/main.44052a45.chunk.css.map": "/MatrixCalculator/static/css/main.44052a45.chunk.css.map",
+    "static/js/2.e6e7ab3e.chunk.js.LICENSE.txt": "/MatrixCalculator/static/js/2.e6e7ab3e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c2ac620.js",
+    "static/js/2.e6e7ab3e.chunk.js",
+    "static/css/main.44052a45.chunk.css",
+    "static/js/main.ba129fd4.chunk.js"
+  ]
+}
